@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi there! I'm Muhammad Anas Sohail
+Welcome to my GitHub profile!
 
-<!--
-**muhammadanascode/muhammadanascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me:
 
-Here are some ideas to get you started:
+I'm an enthusiastic undergraduate student of Computer Science with a passion for developing innovative solutions and learning new technologies. My journey in the tech world is fueled by curiosity and a drive to create impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Skills and Technologies:
+
+MERN Stack: MongoDB, Express.js, React.js, Node.js
+Frontend Development: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+Java & JavaFX: Building dynamic and interactive desktop applications
+UI/UX Design: Crafting intuitive and aesthetically pleasing user interfaces
+🚀 What I'm Working On:
+
+Currently diving deeper into full-stack development with the MERN stack.
+Exploring the latest trends in frontend development and design.
+🌱 Learning and Growth:
+
+Constantly enhancing my skills in modern web development frameworks and libraries.
+Actively contributing to open-source projects and collaborating with the developer community.
+📫 Connect with Me:
+
+https://www.linkedin.com/in/anas-sohail-038026262/
+anassohail34343@gmail.com
+https://www.facebook.com/ANASCX/
+Feel free to check out my repositories and projects. Let's collaborate and build something amazing together!
