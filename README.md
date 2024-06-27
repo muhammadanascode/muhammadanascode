@@ -1,7 +1,14 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://www.linkedin.com/in/muhammad-saad-b29058189/)
 <h1 align="center">Hi 👋, I'm Muhammad Anas Sohail</h1>
 <h3 align="center">A passionate software Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<div style="display: flex; align-items: center; justify-content: center; padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 20px;">
+            <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+            <div style="max-width: 400px;">
+                <h2>About Me</h2>
+                <p>I am an undergraduate of Computer Science at the University of Karachi. Ask me about ReactJS, NextJS, and Java.</p>
+            </div>
+        </div>
+    </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadanascode&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadanascode" /> </p>
 
@@ -9,7 +16,7 @@
 
 - 🌱 I’m currently learning **spring ,springboot**
 
-- 💬 Ask me about **reactjs ,nextjs ,java ,mysql**
+- 💬 Ask me about **reactjs ,nextjs , mysql**
 
 - 📫 How to reach me **anassohail34343@gmail.com**
 
